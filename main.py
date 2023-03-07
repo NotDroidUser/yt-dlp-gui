@@ -8,8 +8,6 @@ from PySide6.QtCore import QProcess, QTimerEvent
 # noinspection PyUnresolvedReferences
 from urllib3.util import parse_url
 
-import res_rc
-
 import re
 from PySide6.QtWidgets import QApplication, QDialog, QMessageBox
 from gui.ytdlp_gui import Ui_Dialog as YTDialogUI
